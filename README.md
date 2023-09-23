@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sifen</h1>
 <h3 align="center">A passionate Full-Stack developer from Ethiopia</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sifamelon&label=Profile%20views&color=0e75b6&style=flat" alt="sifamelon" /> </p>
+
 # 💫 About Me:
 🔭 I’m Ecommerce Site Called Akeray<br>🌱 I’m currently learning React native & Django<br>🤝 I’m looking for help with good investor<br>💬 Ask me about React.js,Express.js,postgresql<br>⚡ Fun fact Debugging is like being the detective in a crime movie where you're also the murderer. 🔍🕵️‍♂️💻
 
