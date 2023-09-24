@@ -3,7 +3,7 @@
 
 
 # 💫 About Me:
-🔭 I’m Ecommerce Site Called Akeray<br>🌱 I’m currently learning React native & Django<br>🤝 I’m looking for help with good investor<br>💬 Ask me about React.js,Express.js,postgresql<br>⚡ Fun fact Debugging is like being the detective in a crime movie where you're also the murderer. 🔍🕵️‍♂️💻
+🔭 I’m currently currently working Ecommerce Site Called Akeray<br>🌱 I’m currently learning React native & Django<br>🤝 I’m looking for help with good investor<br>💬 Ask me about React.js,Express.js,postgresql<br>⚡ Fun fact Debugging is like being the detective in a crime movie where you're also the murderer. 🔍🕵️‍♂️💻
 
 
 ## 🌐 Socials:
